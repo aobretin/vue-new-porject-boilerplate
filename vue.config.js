@@ -17,13 +17,11 @@ module.exports = {
         // our modules
         'CONSTANTS': resolve('src/constants'),
         'helpers': resolve('src/helpers'),
-        'validations': resolve('src/validations'),
         'services': resolve('src/services'),
         'modules': resolve('src/modules'),
         'reusables': resolve('src/reusable-components'),
         'router': resolve('src/router'),
         'store': resolve('src/store'),
-        'translations': resolve('src/translations'),
         'pages': resolve('src/pages'),
         'filters': resolve('src/filters'),
         'overwrites': resolve('src/overwrites')
