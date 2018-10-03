@@ -7,10 +7,10 @@ export const GLOBAL_NAMES = {
   },
 
   MODULES_NAMES: {
-    // PARTIES_LIST: {
-    //   name: 'Parties-list',
+    // MODULE_NAME: {
+    //   name: 'module-name',
     //   components: {
-    //     _PARTY_LIST: 'List'
+    //     _SUBMODULE_NAME: 'Submodule name'
     //   }
     // },
   },
