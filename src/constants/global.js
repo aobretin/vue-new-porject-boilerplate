@@ -1,5 +1,5 @@
 export const GLOBAL_NAMES = {
-  APP_NAME: 'PEX',
+  APP_NAME: 'PROJECT',
 
   DATES_FORMATS: {
     SHOW_FORMAT: 'dd/MM/yyyy',
